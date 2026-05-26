@@ -1,5 +1,5 @@
 ---
-title: "AI Daily Digest: 2026年5月25日 — Grok Build CLI・Cursor Composer 2.5・Qwen 3.7・X-Humanoid慧思開物Agent"
+title: "AI Daily Digest: 2026-05-25 — Grok CLI・Cursor 2.5・Qwen 3.7・慧思開物"
 emoji: "🤖"
 type: "tech"
 topics: ["AI", "Agentic", "ロボット", "コーディング", "LLM"]
