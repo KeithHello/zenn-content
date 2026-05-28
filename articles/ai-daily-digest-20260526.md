@@ -1,5 +1,5 @@
 ---
-title: "AI Daily Digest: 2026年5月26日 — Codex Thursday、Claude Code公式プラグイン、DellプロダクションAgentic AI、人型ロボットマラソン記録"
+title: "AI Daily Digest: 2026-05-26 — Codex Thursday, Claude Plugin, Dell AI"
 emoji: "🤖"
 type: "tech"
 topics: ["AI", "Agentic", "ロボット", "コーディング", "LLM"]
