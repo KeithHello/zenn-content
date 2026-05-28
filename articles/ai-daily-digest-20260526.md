@@ -1,5 +1,5 @@
 ---
-title: "AI Daily Digest: 2026-05-26 — Codex Thursday, Claude Plugin, Dell AI"
+title: "AI Daily Digest: May 26 - Codex, Claude Plugin, Dell AI"
 emoji: "🤖"
 type: "tech"
 topics: ["AI", "Agentic", "ロボット", "コーディング", "LLM"]
